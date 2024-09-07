@@ -5,7 +5,7 @@ SQL scripts to create and manage a Pokémon database. The database includes tabl
 
 ![DATABASE_SCHEMA](/assets/db_schema.png)
 
-<h2 align='center'>⚙️ CRUD</h2>
+
 
 ### ➕ Create
 
